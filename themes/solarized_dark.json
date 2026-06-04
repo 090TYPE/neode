@@ -1,0 +1,29 @@
+{
+  "name": "Solarized Dark",
+  "author": "Ethan Schoonover",
+  "ui": {
+    "background": "#002b36",
+    "surface": "#073642",
+    "accent": "#268bd2",
+    "text_primary": "#93a1a1",
+    "text_secondary": "#586e75",
+    "border": "#0b3a45",
+    "selection": "#073642",
+    "line_highlight": "#ffffff08"
+  },
+  "syntax": {
+    "keyword": "#859900",
+    "string": "#2aa198",
+    "comment": "#586e75",
+    "number": "#d33682",
+    "type": "#b58900",
+    "function": "#268bd2",
+    "preprocessor": "#cb4b16",
+    "operator": "#839496"
+  },
+  "font": {
+    "family": "JetBrains Mono",
+    "size": 13,
+    "line_height": 1.6
+  }
+}

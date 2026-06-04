@@ -1,0 +1,29 @@
+{
+  "name": "Catppuccin Mocha",
+  "author": "Catppuccin",
+  "ui": {
+    "background": "#1e1e2e",
+    "surface": "#181825",
+    "accent": "#89b4fa",
+    "text_primary": "#cdd6f4",
+    "text_secondary": "#a6adc8",
+    "border": "#313244",
+    "selection": "#45475a",
+    "line_highlight": "#ffffff0a"
+  },
+  "syntax": {
+    "keyword": "#cba6f7",
+    "string": "#a6e3a1",
+    "comment": "#6c7086",
+    "number": "#fab387",
+    "type": "#f9e2af",
+    "function": "#89b4fa",
+    "preprocessor": "#f38ba8",
+    "operator": "#89dceb"
+  },
+  "font": {
+    "family": "JetBrains Mono",
+    "size": 13,
+    "line_height": 1.6
+  }
+}

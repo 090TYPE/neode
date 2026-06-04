@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Build
+build/
+dist/
+*.spec.bak
+
+# IDE settings written at runtime
+settings.json
+.neode/
+
+# OS
+.DS_Store
+Thumbs.db

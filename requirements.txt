@@ -1,0 +1,6 @@
+PyQt6>=6.6.0
+PyQt6-Qt6>=6.6.0
+PyQt6-QScintilla>=2.14.1
+pygit2>=1.14.0
+ansi2html>=1.9.0
+pyinstaller>=6.0.0

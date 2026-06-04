@@ -1,0 +1,29 @@
+{
+  "name": "Light Clean",
+  "author": "NeoIDE",
+  "ui": {
+    "background": "#ffffff",
+    "surface": "#f3f3f3",
+    "accent": "#0066cc",
+    "text_primary": "#24292e",
+    "text_secondary": "#6a737d",
+    "border": "#e1e4e8",
+    "selection": "#cce5ff",
+    "line_highlight": "#00000006"
+  },
+  "syntax": {
+    "keyword": "#d73a49",
+    "string": "#032f62",
+    "comment": "#6a737d",
+    "number": "#005cc5",
+    "type": "#6f42c1",
+    "function": "#6f42c1",
+    "preprocessor": "#e36209",
+    "operator": "#24292e"
+  },
+  "font": {
+    "family": "JetBrains Mono",
+    "size": 13,
+    "line_height": 1.6
+  }
+}

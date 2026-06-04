@@ -1,0 +1,29 @@
+{
+  "name": "One Dark",
+  "author": "Atom",
+  "ui": {
+    "background": "#282c34",
+    "surface": "#21252b",
+    "accent": "#61afef",
+    "text_primary": "#abb2bf",
+    "text_secondary": "#7f848e",
+    "border": "#3b4048",
+    "selection": "#3e4451",
+    "line_highlight": "#ffffff08"
+  },
+  "syntax": {
+    "keyword": "#c678dd",
+    "string": "#98c379",
+    "comment": "#5c6370",
+    "number": "#d19a66",
+    "type": "#e5c07b",
+    "function": "#61afef",
+    "preprocessor": "#e06c75",
+    "operator": "#56b6c2"
+  },
+  "font": {
+    "family": "JetBrains Mono",
+    "size": 13,
+    "line_height": 1.6
+  }
+}

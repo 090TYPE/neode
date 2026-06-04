@@ -1,0 +1,29 @@
+{
+  "name": "Tokyo Night",
+  "author": "enkia",
+  "ui": {
+    "background": "#1a1b26",
+    "surface": "#16161e",
+    "accent": "#7aa2f7",
+    "text_primary": "#c0caf5",
+    "text_secondary": "#565f89",
+    "border": "#292e42",
+    "selection": "#283457",
+    "line_highlight": "#ffffff08"
+  },
+  "syntax": {
+    "keyword": "#bb9af7",
+    "string": "#9ece6a",
+    "comment": "#565f89",
+    "number": "#ff9e64",
+    "type": "#2ac3de",
+    "function": "#7aa2f7",
+    "preprocessor": "#f7768e",
+    "operator": "#89ddff"
+  },
+  "font": {
+    "family": "JetBrains Mono",
+    "size": 13,
+    "line_height": 1.6
+  }
+}

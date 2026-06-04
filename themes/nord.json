@@ -1,0 +1,29 @@
+{
+  "name": "Nord",
+  "author": "Arctic Ice Studio",
+  "ui": {
+    "background": "#2e3440",
+    "surface": "#3b4252",
+    "accent": "#88c0d0",
+    "text_primary": "#eceff4",
+    "text_secondary": "#7b88a1",
+    "border": "#434c5e",
+    "selection": "#434c5e",
+    "line_highlight": "#ffffff08"
+  },
+  "syntax": {
+    "keyword": "#81a1c1",
+    "string": "#a3be8c",
+    "comment": "#616e88",
+    "number": "#b48ead",
+    "type": "#8fbcbb",
+    "function": "#88c0d0",
+    "preprocessor": "#5e81ac",
+    "operator": "#81a1c1"
+  },
+  "font": {
+    "family": "JetBrains Mono",
+    "size": 13,
+    "line_height": 1.6
+  }
+}
