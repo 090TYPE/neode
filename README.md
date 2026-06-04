@@ -301,3 +301,21 @@ Edit any file in `themes/` or use the **Visual Theme Editor** (`Ctrl+K Ctrl+T`) 
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+
+---
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+1. Fork the repo
+2. Create your feature branch: `git checkout -b feat/your-feature`
+3. Commit your changes: `git commit -m 'feat: add your feature'`
+4. Push and open a PR
+
+---
+
+## License
+
+MIT © [090TYPE](https://github.com/090TYPE)
