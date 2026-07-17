@@ -8,6 +8,7 @@
 [![PyQt6](https://img.shields.io/badge/PyQt6-6.6%2B-41CD52?style=flat-square&logo=qt&logoColor=white)](https://pypi.org/project/PyQt6/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=flat-square)](https://github.com/090TYPE/neode)
+[![CI](https://github.com/090TYPE/neode/actions/workflows/ci.yml/badge.svg)](https://github.com/090TYPE/neode/actions/workflows/ci.yml)
 
 *LSP-powered autocomplete · Live themes · Full plugin system · Integrated terminal*
 
