@@ -16,6 +16,14 @@
 
 ---
 
+## Screenshot
+
+<p align="center">
+  <img src="screenshots/editor.png" width="820" alt="NeoIDE editing its own source — syntax highlighting, tabs, file tree, minimap, integrated terminal and status bar"/>
+</p>
+
+---
+
 ## Overview
 
 NeoIDE is a from-scratch code editor focused on **C++ and C#** development, with support for a wide range of languages. It combines the essentials you'd expect from a modern editor — real language-server integration, a rich visual system, and a flexible plugin architecture — in a lightweight Python package.
